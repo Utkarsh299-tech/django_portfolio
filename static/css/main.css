@@ -146,7 +146,7 @@ body {
 }
 
 .about-card-description {
-  font-size: 20px;
+  font-size: 10px;
   color: #000;
   font-weight: normal;
   margin-bottom: 20px;
@@ -181,7 +181,7 @@ body {
 
 .card-text {
   text-align: left;
-  font: 16px/22px sans-serif;
+  font: 10px/22px sans-serif;
   letter-spacing: 0;
   color: #454545;
   opacity: 1;
